@@ -24,3 +24,7 @@ dependencies[] = shortcut
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
+
+; Contrib modules
+dependencies[] = admin_menu
+dependencies[] = module_filter
