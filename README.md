@@ -23,8 +23,7 @@ __THEN__
 
 * install as you normally would (browser, drush, etc.).
  - *It is set to be the default profile and automatically select English as the install language.*
- 
- Option 1 does not download and install contributed or custom modules, libraries, themes or patches.
- Option 2 handles all of that automatically.
+
+*Option 1 does not download and install contributed or custom modules, libraries, themes or patches, while Option 2 does...*
 
 __@todo - add information on the profile's / distribution's intended use.__
