@@ -8,7 +8,7 @@ It now also includes a working set of .make files.
 
 I'll be making incremental changes over time with the goal of having, at the very least, a distribution I can use for sites I install and, ideally, a full-fledged project anyone can grab and use immediately.
 
-To use it,*__either__*
+To use it, *__either__*
 
 1. download and unpack your chosen version of Drupal
 2. place the repo into your /drupal-root/profiles/ directory
