@@ -1,4 +1,4 @@
-# Instructor install profile / distribution - compatible with Drupal 7
+# xq42_d7_sk install profile / distribution - compatible with Drupal 7
 
 *__NOT YET READY FOR USE!  Testing purposes only at this time...__ - DanG, 20170108*
 
@@ -16,9 +16,9 @@ To use it, *__either__*
 __OR__, if you have drush
  
 1. download the repo
-2. enter the "instructor" directory
+2. enter the "xq42_d7_sk" directory
 3. run the following command:
- * drush make build-instructor.make /path-to/drupal-root
+ * drush make build-xq42_d7_sk.make /path-to/drupal-root
 
 __THEN__
 

@@ -1,5 +1,5 @@
-name = Instructor
-description = "Installation profile customized for the Instructor Distribution, by xq42."
+name = xq42_d7_sk
+description = "Installation profile customized for the xq42_d7_sk Distribution."
 core = 7.x
 
 ; Set as the default profile - skips screen where user chooses profile

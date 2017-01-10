@@ -2,13 +2,13 @@
 
 /**
  * @file
- * Install, update, uninstall functions for the instructor installation profile.
+ * Install, update, uninstall functions for the xq42_d7_sk installation profile.
  */
 
 /**
  * Implements hook_install().
  */
-function instructor_install() {
+function xq42_d7_sk_install() {
   // Add text formats.
   $filtered_html_format = array(
     'format' => 'filtered_html',
