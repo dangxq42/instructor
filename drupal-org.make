@@ -13,4 +13,6 @@ projects[admin_menu][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
 ;projects[module_filter][version] = 2.0
 
+projects[ctools][subdir] = "contrib"
+
 projects[views][subdir] = "contrib"
