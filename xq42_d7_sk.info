@@ -29,5 +29,6 @@ dependencies[] = rdf
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
+dependencies[] = ctools
 dependencies[] = views
 dependencies[] = views_ui
