@@ -9,7 +9,7 @@ core = 7.x
 ; Include the additional makes files we have created for core and contrib.
 includes[] = drupal-org.make
 
-; projects[drupal][version] = 7.44
+projects[drupal][version] = 7.53
 
 ; Add the xq42_d7_sk install profile to the distribution build.
 projects[xq42_d7_sk][type] = "profile"
