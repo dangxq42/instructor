@@ -4,15 +4,13 @@ api = 2
 core = 7.x
 
 ; Specify default subdirectory for projects
-; defaults[projects][subdir] = "contrib"
+defaults[projects][subdir] = "contrib"
 
 ; Modules
-projects[admin_menu][subdir] = "contrib"
-;projects[admin_menu][version] = 3.0-rc5
+projects[admin_menu][version] = 3.0-rc5
 
-projects[module_filter][subdir] = "contrib"
-;projects[module_filter][version] = 2.0
+projects[module_filter][version] = 2.0
 
-projects[ctools][subdir] = "contrib"
+projects[ctools][version] = 1.12
 
-projects[views][subdir] = "contrib"
+projects[views][version] = 3.14
