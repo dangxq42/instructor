@@ -4,7 +4,7 @@ api: 2
 core: 7.x
 
 includes:
-  - drupal-org.make
+  - drupal-org.make.yml
 
 projects:
   drupal:

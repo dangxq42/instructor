@@ -1,0 +1,15 @@
+# This drupal-org.make file downloads contrib modules, themes, and 3rd party libraries.
+
+api: 2
+core: 7.x
+
+# Modules
+projects:
+  admin_menu:
+    version: 3.0-rc5
+  module_filter:
+    version: 2.0
+  ctools:
+    version: 1.12
+  views:
+    version: 3.14
