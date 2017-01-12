@@ -1,0 +1,17 @@
+#build-xq42_d7_sk.make.yml
+
+api: 2
+core: 7.x
+
+includes:
+  - drupal-org.make
+
+projects:
+  drupal:
+    version: ~
+
+  xq42_d7_sk:
+    type: "profile"
+    download:
+      type: "git"
+      url: "git@github.com:dangxq42/xq42_d7_sk.git"
