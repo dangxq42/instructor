@@ -31,6 +31,7 @@ dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
 dependencies[] = ctools
 dependencies[] = page_manager
+dependencies[] = views_content
 dependencies[] = pathauto
 dependencies[] = token
 dependencies[] = fieldable_panels_panes
