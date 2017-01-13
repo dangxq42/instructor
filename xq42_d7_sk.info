@@ -30,5 +30,15 @@ dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
 dependencies[] = ctools
+dependencies[] = page_manager
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = fieldable_panels_panes
+dependencies[] = panels
+dependencies[] = panels_style_collapsible
 dependencies[] = views
 dependencies[] = views_ui
+
+; Development modules - may or may not make it into final build...
+dependencies[] = features
+dependencies[] = strongarm
