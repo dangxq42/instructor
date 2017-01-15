@@ -29,6 +29,7 @@ dependencies[] = rdf
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
+dependencies[] = ckeditor
 dependencies[] = ctools
 dependencies[] = page_manager
 dependencies[] = views_content
