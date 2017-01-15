@@ -442,12 +442,3 @@ function xq42_d7_sk_install() {
   variable_set('admin_theme', 'seven');
   variable_set('node_admin_theme', '1');
 }
-<?php
-/**
- * @file
- * text_format_ckeditor_settings.features.filter.inc
- */
-
-
-  return $formats;
-}
