@@ -45,3 +45,6 @@ dependencies[] = views_ui
 ; Development modules - may or may not make it into final build...
 dependencies[] = features
 dependencies[] = strongarm
+
+; Features
+dependencies[] = text_formats_filters
