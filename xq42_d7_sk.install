@@ -119,7 +119,7 @@ function xq42_d7_sk_install() {
 
   // Enable some standard blocks.
   $default_theme = variable_get('theme_default', 'bartik');
-  $admin_theme = 'seven';
+  $admin_theme = 'adminimal_theme';
   $blocks = array(
     array(
       'module' => 'system',
@@ -436,8 +436,8 @@ function xq42_d7_sk_install() {
   db_update('system')
     ->fields(array('status' => 1))
     ->condition('type', 'theme')
-    ->condition('name', 'seven')
+    ->condition('name', 'adminimal_theme')
     ->execute();
-  variable_set('admin_theme', 'seven');
+  variable_set('admin_theme', 'adminimal_theme');
   variable_set('node_admin_theme', '1');
 }
