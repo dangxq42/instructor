@@ -1,6 +1,0 @@
-name = xq42 Text Formats
-description = Defines the preferred text format definitions for xq42.
-package = xq42
-core = 7.x
-
-dependencies[] = ckeditor

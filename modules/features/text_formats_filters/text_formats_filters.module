@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Text Formats & Filters feature.
+ */
+
+include_once 'text_formats_filters.features.inc';
