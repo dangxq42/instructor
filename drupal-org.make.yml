@@ -32,6 +32,9 @@ projects:
   panels_style_collapsible:
     version: 1.3
     subdir: "contrib"
+  simplify:
+    version: 3.4
+    subdir: "contrib"
   views:
     version: 3.14
     subdir: "contrib"

@@ -38,6 +38,7 @@ dependencies[] = token
 dependencies[] = fieldable_panels_panes
 dependencies[] = panels
 dependencies[] = panels_style_collapsible
+dependencies[] = simplify
 dependencies[] = views
 dependencies[] = views_ui
 
