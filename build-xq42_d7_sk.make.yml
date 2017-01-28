@@ -3,8 +3,8 @@
 api: 2
 core: 7.x
 
-includes:
-  - drupal-org.make.yml
+#includes:
+#  - drupal-org.make.yml
 
 projects:
   drupal:
@@ -15,3 +15,4 @@ projects:
     download:
       type: "git"
       url: "git@github.com:dangxq42/xq42_d7_sk.git"
+      branch: "master"
