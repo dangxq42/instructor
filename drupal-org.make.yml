@@ -5,6 +5,8 @@ core: 7.x
 
 # Modules
 projects:
+
+  # Contrib modules
   admin_menu:
     version: "3.0-rc5"
     subdir: "contrib"
@@ -44,3 +46,7 @@ projects:
   strongarm:
     version: 2.0
     subdir: "contrib"
+
+  # Themes
+  adminimal_theme:
+    version: "1.24"
