@@ -3,6 +3,9 @@
 api: 2
 core: 7.x
 
+# Do NOT add the "drupal-org.make.yml" file here! Doing so forces modules to be
+# installed in sites/all/modules rather than the expected
+# profiles/profile-name/modules folder. -- DanG, 20170128
 #includes:
 #  - drupal-org.make.yml
 
