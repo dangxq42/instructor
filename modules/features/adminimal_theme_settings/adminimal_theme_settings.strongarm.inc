@@ -36,9 +36,9 @@ function adminimal_theme_settings_strongarm() {
     'sticky_actions' => 1,
     'avoid_custom_font' => 0,
     'adminimal_ckeditor' => 1,
-    'use_custom_media_queries' => 0,
-    'media_query_mobile' => 'only screen and (max-width: 480px)',
-    'media_query_tablet' => 'only screen and (min-width : 481px) and (max-width : 1024px)',
+    'use_custom_media_queries' => 1,
+    'media_query_mobile' => 'only screen and (max-width: 625px)',
+    'media_query_tablet' => 'only screen and (min-width : 626px) and (max-width : 1024px)',
     'custom_css' => 1,
     'adminimal_theme_skin' => 'alternative',
   );
