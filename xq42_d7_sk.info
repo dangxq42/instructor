@@ -87,4 +87,5 @@ dependencies[] = strongarm
 ;dependencies[] = views_ui
 
 ; Features
+dependencies[] = adminimal_theme_settings
 dependencies[] = text_formats_filters

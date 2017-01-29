@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Adminimal Theme Settings feature.
+ */
+
+include_once 'adminimal_theme_settings.features.inc';
