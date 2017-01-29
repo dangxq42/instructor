@@ -7,45 +7,156 @@ core: 7.x
 projects:
 
   # Contrib modules
+  #  addtoany:
+  #  version: "4.14"
+  #  subdir: "contrib"
+  #addressfield:
+  #  version: "1.2"
+  #  subdir: "contrib"
   admin_menu:
     version: "3.0-rc5"
     subdir: "contrib"
-  module_filter:
-    version: 2.0
+  adminimal_admin_menu:
+    version: "1.7"
     subdir: "contrib"
+  #antibot:
+  #  version: "1.0"
+  #  subdir: "contrib"
+  #auto_entitylabel:
+  #  version: "1.3"
+  #  subdir: "contrib"
+  #better_exposed_filters:
+  #  version: "3.3"
+  #  subdir: "contrib"
   ckeditor:
-    version: 1.17
+    version: "1.17"
     subdir: "contrib"
+  #conditional_fields:
+  #  version: "3.0-alpha2"
+  #  subdir: "contrib"
+  #crm_core:
+  #  version: "1.0-rc1"
+  #  subdir: "contrib"
+  #crm_core_profile:
+  #  version: "1.0-beta11"
+  #  subdir: "contrib"
   ctools:
-    version: 1.12
+    version: "1.12"
     subdir: "contrib"
-  pathauto:
-    version: 1.3
+  #date:
+  #  version: "2.9"
+  #  subdir: "contrib"
+  #devel:
+  #  version: "1.5"
+  #  subdir: "contrib"
+  #elements:
+  #  version: "1.4"
+  #  subdir: "contrib"
+  #email:
+  #  version: "1.3"
+  #  subdir: "contrib"
+  entity:
+    version: "1.8"
     subdir: "contrib"
-  token:
-    version: 1.6
-    subdir: "contrib"
-  fieldable_panels_panes:
-    version: 1.11
-    subdir: "contrib"
-  panels:
-    version: 3.8
-    subdir: "contrib"
-  panels_style_collapsible:
-    version: 1.3
-    subdir: "contrib"
-  simplify:
-    version: 3.4
-    subdir: "contrib"
-  views:
-    version: 3.14
+  entityreference:
+    version: "1.2"
     subdir: "contrib"
   features:
     version: "2.10"
     subdir: "contrib"
-  strongarm:
-    version: 2.0
+  field_group:
+    version: "1.5"
     subdir: "contrib"
+  #field_permissions:
+  #  version: "1.0"
+  #  subdir: "contrib"
+  #fieldable_panels_panes:
+  #  version: "1.11"
+  #  subdir: "contrib"
+  #fullcalendar:
+  #  version: "2.0+7-dev"
+  #  subdir: "contrib"
+  globalredirect:
+    version: "1.5"
+    subdir: "contrib"
+  habitat:
+    version: "1.0"
+    subdir: "contrib"
+  #honeypot:
+  #  version: "1.22"
+  #  subdir: "contrib"
+  #libraries:
+  #  version: "2.3"
+  #  subdir: "contrib"
+  #logintoboggan:
+  #  version: "1.5"
+  #  subdir: "contrib"
+  #maillog:
+  #  version: "1.0-alpha1"
+  #  subdir: "contrib"
+  #mailsystem:
+  #  version: "1.0-beta4"
+  #  subdir: "contrib"
+  #mimemail:
+  #  version: "2.34"
+  #  subdir: "contrib"
+  module_filter:
+    version: "2.0"
+    subdir: "contrib"
+  #name:
+  #  version: "1.10"
+  #  subdir: "contrib"
+  #panels:
+  #  version: "3.8"
+  #  subdir: "contrib"
+  #panels_style_collapsible:
+  #  version: "1.3"
+  #  subdir: "contrib"
+  pathauto:
+    version: "1.3"
+    subdir: "contrib"
+  prlp:
+    version: "1.3"
+    subdir: "contrib"
+  publish_button:
+    version: "1.1"
+    subdir: "contrib"
+  redirect:
+    version: "1.0-rc3"
+    subdir: "contrib"
+  #relation:
+  #  version: "1.0"
+  #  subdir: "contrib"
+  #rules:
+  #  version: "2.9"
+  #  subdir: "contrib"
+  #select_or_other:
+  #  version: "2.22"
+  #  subdir: "contrib"
+  simplify:
+    version: "3.4"
+    subdir: "contrib"
+  #smtp:
+  #  version: "1.6"
+  #  subdir: "contrib"
+  strongarm:
+    version: "2.0"
+    subdir: "contrib"
+  #telephone:
+  #  version: "1.0-alpha1"
+  #  subdir: "contrib"
+  token:
+    version: "1.6"
+    subdir: "contrib"
+  #views:
+  #  version: "3.14"
+  #  subdir: "contrib"
+  #views_bulk_operations:
+  #  version: "3.3"
+  #  subdir: "contrib"
+  #views_data_export:
+  #  version: "3.1"
+  #  subdir: "contrib"
 
   # Themes
   adminimal_theme:
