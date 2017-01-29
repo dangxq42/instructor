@@ -145,9 +145,9 @@ projects:
   #telephone:
   #  version: "1.0-alpha1"
   #  subdir: "contrib"
-  #token:
-  #  version: "1.6"
-  #  subdir: "contrib"
+  token:
+    version: "1.6"
+    subdir: "contrib"
   #views:
   #  version: "3.14"
   #  subdir: "contrib"
