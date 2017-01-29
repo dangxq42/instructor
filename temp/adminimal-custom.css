@@ -1,0 +1,20 @@
+div#edit-buttons,
+div#edit-actions {
+  background: #DDD;
+  padding: .5em;
+  text-align: center;
+}
+
+input.form-submit {
+  margin: .5em !important;
+  color: #FFF !important;
+}
+
+#edit-submit {
+  background: #1E5C90 !important;
+}
+
+#edit-publish {
+  color: #FFF;
+  background: #4d8f46;
+}
