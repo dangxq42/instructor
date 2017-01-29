@@ -46,9 +46,9 @@ projects:
   #date:
   #  version: "2.9"
   #  subdir: "contrib"
-  #devel:
-  #  version: "1.5"
-  #  subdir: "contrib"
+  devel:
+    version: "1.5"
+    subdir: "contrib"
   #elements:
   #  version: "1.4"
   #  subdir: "contrib"
