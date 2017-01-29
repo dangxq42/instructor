@@ -7,11 +7,11 @@ core: 7.x
 projects:
 
   # Contrib modules
-  #  addtoany:
-  #  version: "4.14"
-  #  subdir: "contrib"
   #addressfield:
   #  version: "1.2"
+  #  subdir: "contrib"
+  #  addtoany:
+  #  version: "4.14"
   #  subdir: "contrib"
   admin_menu:
     version: "3.0-rc5"
@@ -40,9 +40,9 @@ projects:
   #crm_core_profile:
   #  version: "1.0-beta11"
   #  subdir: "contrib"
-  #ctools:
-  #  version: "1.12"
-  #  subdir: "contrib"
+  ctools:
+    version: "1.12"
+    subdir: "contrib"
   #date:
   #  version: "2.9"
   #  subdir: "contrib"
