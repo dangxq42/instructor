@@ -10,11 +10,18 @@ input.form-submit {
   color: #FFF !important;
 }
 
-#edit-submit {
+/*#edit-submit {
   background: #1E5C90 !important;
 }
 
 #edit-publish {
   color: #FFF;
   background: #4d8f46;
+}*/
+
+input#edit-name,
+input#edit-date,
+input#edit-path-alias {
+  width: 95%;
+  max-width: 390px;
 }
