@@ -93,5 +93,5 @@ dependencies[] = strongarm
 
 ; Features
 dependencies[] = xq42_adminimal_theme_settings
-;dependencies[] = xq42_content_types_base
+dependencies[] = xq42_content_types_base
 dependencies[] = xq42_text_formats_filters
