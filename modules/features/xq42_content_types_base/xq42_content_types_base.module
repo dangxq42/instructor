@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Content types - base feature.
+ */
+
+include_once 'xq42_content_types_base.features.inc';

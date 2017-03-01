@@ -4,4 +4,4 @@
  * Code for the Adminimal Theme Settings feature.
  */
 
-include_once 'adminimal_theme_settings.features.inc';
+include_once 'xq42_adminimal_theme_settings.features.inc';

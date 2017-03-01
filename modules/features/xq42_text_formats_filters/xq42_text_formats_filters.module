@@ -4,4 +4,4 @@
  * Code for the Text Formats & Filters feature.
  */
 
-include_once 'text_formats_filters.features.inc';
+include_once 'xq42_text_formats_filters.features.inc';

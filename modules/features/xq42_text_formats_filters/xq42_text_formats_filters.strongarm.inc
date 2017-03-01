@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * text_formats_filters.strongarm.inc
+ * xq42_text_formats_filters.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function text_formats_filters_strongarm() {
+function xq42_text_formats_filters_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();

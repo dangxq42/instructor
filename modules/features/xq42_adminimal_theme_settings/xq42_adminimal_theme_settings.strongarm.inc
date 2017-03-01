@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * adminimal_theme_settings.strongarm.inc
+ * xq42_adminimal_theme_settings.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function adminimal_theme_settings_strongarm() {
+function xq42_adminimal_theme_settings_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();
