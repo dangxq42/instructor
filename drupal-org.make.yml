@@ -19,6 +19,8 @@ projects:
   adminimal_admin_menu:
     version: "1.7"
     subdir: "contrib"
+    patch:
+      - https://www.drupal.org/files/issues/adminimal_admin_menu-missing-account-links-mobile-2442271-7.patch
   #antibot:
   #  version: "1.0"
   #  subdir: "contrib"
@@ -161,3 +163,7 @@ projects:
   # Themes
   adminimal_theme:
     version: "1.24"
+    patch:
+      - https://www.drupal.org/files/issues/vertical_tabs_wrong_margin_alternative_skin-2852763-2.patch
+  responsive_bartik:
+    version: "1.0"
